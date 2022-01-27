@@ -7,4 +7,4 @@ Hey I'm Jake aka "Ragnyll".
 _Check Out:_
 
 - My blog: [blog.gallowzhumour.dev](https://blog.gallowzhumour.dev)
-- My current: [newsdock](https://github.com/Ragnyll/newsdock)
+- My current project: [newsdock](https://github.com/Ragnyll/newsdock)
