@@ -4,7 +4,6 @@ Hey I'm Jake aka "Ragnyll".
  My language of choice is Rust, but I do tend to pull out a bit of Python as my Swiss-Army knife.
  I'm also a bboy and I've been representing Arch Enemies Crew since 2017.
 
-_Check Out:_
-
+### _Check Out:_
 - My blog: [blog.gallowzhumour.dev](https://blog.gallowzhumour.dev)
 - My current project: [newsdock](https://github.com/Ragnyll/newsdock)
