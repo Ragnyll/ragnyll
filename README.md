@@ -6,7 +6,7 @@ Hey I'm Jake, aka "Ragnyll".
 
 ### _Check Out:_
 - My blog: [blog.gallowzhumour.dev](https://blog.gallowzhumour.dev)
-- My current project: [newsdock](https://github.com/Ragnyll/newsdock)
+- My current project: Learning Bevy
 - My LinkedIn: [LinkedIn](https://www.linkedin.com/in/jakegallow/)
 
 ### _Check the Stats_
